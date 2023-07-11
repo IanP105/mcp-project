@@ -2,7 +2,7 @@
 > Comparing Sequential and Parallel Algorithm Performance for Solving the Maximum Clique Problem
 
 ## IMPORTANT NOTICE
-This repo was forked from: https://github.com/acsetter/mcp-project
+This repo was forked from: https://github.com/acsetter/mcp-project.
 The purpose of this fork is solely to display it on my own GitHub profile.
 Please see the authors section at the bottom of this file.
  
