@@ -4,7 +4,8 @@
 ## IMPORTANT NOTICE
 This repo was forked from: https://github.com/acsetter/mcp-project.
 The purpose of this fork is solely to display it on my own GitHub profile.
-Please see the authors section at the bottom of this file.
+Please see the authors section at the bottom of this file for those who contributed.
+The file "MCP-Presentation.pdf" in the root of this repo contains a brief overview/explanation of the project.
  
 ## Getting Started
 Ensure you are using Python version `3.8.x` or higher:
