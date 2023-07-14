@@ -21,7 +21,7 @@ In `main.py`, add the graphs from `in/` you wish to test to the `graphs` list in
 Test results will be printed to the console and can be found in `results.csv`.
 
 ## Authors
-* Aaron Csetter
-* Ian Peña
-* Nathan Davis
-* Dmytro Dobrynin
+* [Aaron Csetter](https://github.com/acsetter)
+* [Ian Peña](https://github.com/IanP105)
+* [Nathan Davis](https://github.com/NathanD11)
+* [Dmytro Dobrynin](https://github.com/dimdbr)
